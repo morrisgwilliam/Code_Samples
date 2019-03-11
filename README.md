@@ -1,2 +1,2 @@
 # Code_Samples
-Directory of Code Excerpts Involving ReactJS, ASP.NET Web Api and MSSQL
+Directory of code excerpts Involving ReactJS, ASP.NET Web Api and MSSQL
